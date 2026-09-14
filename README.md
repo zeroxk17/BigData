@@ -1,20 +1,12 @@
 # Big Data
-Repositorio de prácticas y proyectos desarrollados durante la materia de **Big Data**.
- 
-## Descripción
-Este repositorio contiene las prácticas, ejercicios y proyectos realizados
-durante el curso. Cada práctica se plantea como un proyecto de datos
-independiente, con sus propios datos, código, dependencias y entorno de
-ejecución.
-El repositorio permite mantener un registro de la evolución del trabajo
-mediante Git y GitHub.
- 
-## Estructura del repositorio
-Cada carpeta corresponde a una práctica o proyecto independiente:
- 
-bigdata/
-│
-├── U1_1_probabilidad_estadistica/
-├── U1_2_...
-├── U2_1_...
-└── ...
+
+Análisis de datos de población, esperanza de vida y tasas de fecundidad usando Python, pandas, numpy y matplotlib.
+
+```
+parcial1/
+└── U1_1_probabilidad_estadistica/
+    ├── data/        datasets descargados de Our World In Data
+    ├── notebooks/   análisis en Jupyter (evolución poblacional, transformaciones, fecundidad)
+    ├── outputs/     reportes exportados
+    └── otros/       notas explicativas de los notebooks
+```
