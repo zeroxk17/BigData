@@ -4,3 +4,8 @@ parcial3/otros/
 .vscode
 **/.venv/
 **/_pycache__/
+
+# Datos fuente (pesados)
+**/data/raw/
+**/data/processed/
+*.zip
