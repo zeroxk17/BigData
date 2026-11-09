@@ -5,7 +5,6 @@ parcial3/otros/
 **/.venv/
 **/_pycache__/
 
-# Datos fuente (pesados)
-**/data/raw/
-**/data/processed/
+# Datos (excluir carpetas data completas)
+**/data/
 *.zip
