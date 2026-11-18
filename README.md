@@ -10,3 +10,5 @@ parcial1/
     ├── outputs/     reportes exportados
     └── otros/       notas explicativas de los notebooks
 ```
+
+> Repositorio conectado a Databricks (Git folder): commit de prueba hecho desde Databricks.
