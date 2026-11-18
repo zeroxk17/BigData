@@ -1,0 +1,50 @@
+﻿**********************
+Inicio de la transcripción de Windows PowerShell
+Hora de inicio: 20261117231428
+Nombre de usuario: DESKTOP-9TO55HP\Derek
+Usuario RunAs: DESKTOP-9TO55HP\Derek
+Nombre de la configuración: 
+Máquina: DESKTOP-9TO55HP (Microsoft Windows NT 10.0.26200.0)
+Aplicación host: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -ExecutionPolicy Bypass -File .\parcial3\U3_3_probabilidad_estadistica\scr\setup_pyspark.ps1
+Id. de proceso: 12712
+PSVersion: 5.1.26100.9818
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.9818
+BuildVersion: 10.0.26100.9818
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+== 1. Java ==
+openjdk version "21.0.12.1" 2026-08-18 LTS
+OpenJDK Runtime Environment (build 21.0.12.1+1-LTS)
+OpenJDK 64-Bit Server VM (build 21.0.12.1+1-LTS, mixed mode, sharing)
+== 2. Entorno Python 3.12 (.venv-spark) ==
+
+Python 3.12.9
+== 3. Instalando paquetes ==
+
+
+PySpark 4.3.0 | PyArrow 26.0.1
+== 4. Kernel de Jupyter 'Python 3.12 (PySpark)' ==
+Installed kernelspec pyspark312 in C:\Users\Derek\AppData\Roaming\jupyter\kernels\pyspark312
+== 5. Variables de entorno para Spark ==
+== 6. Ejecutando el notebook completo ==
+WARNING: Using incubator modules: jdk.incubator.vector
+26/11/17 23:16:03 WARN Shell: Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: H
+ADOOP_HOME and hadoop.home.dir are unset. -see https://cwiki.apache.org/confluence/display/HADOOP2/WindowsProblems
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+26/11/17 23:16:03 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java cl
+asses where applicable
+[NbConvertApp] Writing 15298 bytes to C:\Users\Derek\Desktop\Universidad\big-data\parcial3\U3_3_probabilidad_estadistica
+\notebooks\U5_1_preparation_pyspark_NYC_taxi.ipynb
+ERROR: no se encontró el proceso "20372".
+
+LISTO: el notebook corrio sin errores y quedo guardado con sus salidas.
+**********************
+Fin de la transcripción de Windows PowerShell
+Hora de finalización: 20261117231646
+**********************

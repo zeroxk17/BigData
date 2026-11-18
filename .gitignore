@@ -8,3 +8,6 @@ parcial3/otros/
 # Datos (excluir carpetas data completas)
 **/data/
 *.zip
+
+# Entornos virtuales extra
+.venv*/
